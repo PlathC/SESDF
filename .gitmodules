@@ -1,0 +1,16 @@
+[submodule "sesdf/extern/glm"]
+	path = sesdf/extern/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "sesdf/extern/magic_enum"]
+	path = sesdf/extern/magic_enum
+	url = https://github.com/Neargye/magic_enum.git
+[submodule "sesdf/extern/SDL"]
+	path = sesdf/extern/SDL
+	url = https://github.com/libsdl-org/SDL.git
+	branch = release-2.26.x
+[submodule "sesdf/extern/chemfiles"]
+	path = sesdf/extern/chemfiles
+	url = https://github.com/chemfiles/chemfiles.git
+[submodule "sesdf/extern/fmt"]
+	path = sesdf/extern/fmt
+	url = https://github.com/fmtlib/fmt.git

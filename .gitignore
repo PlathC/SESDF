@@ -1,0 +1,5 @@
+/.vs/
+/out/
+/.idea
+/enc_temp_folder
+CMakeSettings.json
